@@ -35,4 +35,5 @@ npm update
 ```
 node app.js
 ```
+6. your app will start
 
