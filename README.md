@@ -12,7 +12,7 @@ Before procceding further we must have following things installed and setuped
    * Nodejs/Express
    * Postgresql
    * Objectionjs
-   * Knexjs
+   * Knexjs edited
    
 ## Installation
 1. Clone the repo
